@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Pawel  
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python. Already love IT !
+- 👓 ML / AI junior lover
+- 
 - 📫 How to reach me: pawel.jasnowski@gmail.com
 
 <!---
