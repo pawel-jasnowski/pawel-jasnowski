@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawel  
 - 🌱 I’m currently learning Python. Already love IT !
-- 👓 ML / AI junior lover
+- 👓 ML / AI / Data lover
 - 📫 How to reach me: pawel.jasnowski@gmail.com
 
 <!---
