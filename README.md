@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pawel  
-- 🌱 I’m currently gaining my analytics skills with Python / SQL / Tableau
+- 🌱 I’m currently gaining my analytics skills with Python / SQL / PowerBI 
 - 👓 Data lover
 - 📫 How to reach me: pawel.jasnowski@gmail.com
 
